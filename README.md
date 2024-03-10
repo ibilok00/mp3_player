@@ -69,4 +69,3 @@ Utilize the Next & Previous buttons to skip specific song.
 
 **Adjust Volume:**\
 Slide the volume control to set the desired volume level.
-```
