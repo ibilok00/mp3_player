@@ -21,6 +21,7 @@ public class Main extends Application {
 		Parent root = FXMLLoader.load(getClass().getResource("Display.fxml"));
 		Scene scene = new Scene(root);
 		stage.setScene(scene);
+		stage.setTitle("MP3 Player");
 		stage.setResizable(false);
 		stage.show();
 		
