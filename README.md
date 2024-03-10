@@ -2,6 +2,7 @@
 
 Welcome to the MP3 Player App, a simple and efficient Java-based application for playing your favorite music files.
 
+![MP3 Player Photo](/AppPhoto.png)
 
 ## Features
 
