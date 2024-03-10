@@ -17,7 +17,7 @@
                   <Font size="40.0" />
                </font>
             </Label>
-            <ProgressBar fx:id="songProgressBar" layoutY="103.0" prefHeight="18.0" prefWidth="679.0" progress="0.0" />
+            <ProgressBar fx:id="songProgressBar" layoutY="103.0" prefHeight="18.0" prefWidth="692.0" progress="0.0" />
             <Button fx:id="playButton" layoutY="121.0" mnemonicParsing="false" onAction="#playMedia" prefHeight="48.0" prefWidth="88.0" text="PLAY">
                <font>
                   <Font size="20.0" />
@@ -44,7 +44,7 @@
                </font>
             </Button>
             <ComboBox fx:id="speedBox" layoutX="440.0" layoutY="121.0" onAction="#changeSpeed" prefHeight="48.0" prefWidth="88.0" promptText="SPEED" />
-            <Slider fx:id="volumeSlider" layoutX="539.0" layoutY="138.0" value="10.0" />
+            <Slider fx:id="volumeSlider" layoutX="539.0" layoutY="138.0" prefHeight="14.0" prefWidth="144.0" value="10.0" />
          </children>
       </AnchorPane>
    </children>
