@@ -6,8 +6,6 @@ Welcome to the MP3 Player App, a simple and efficient Java-based application for
 
 ## Features
 
-- **User-Friendly Interface**: The application boasts a clean and intuitive user interface, making it easy for users to navigate and enjoy their music effortlessly.
-
 - **MP3 File Support**: The MP3 Player App supports the playback of standard MP3 audio files, ensuring compatibility with a wide range of music collections.
 
 - **Song Progress Bar**: Keep track of your song's progress with the interactive progress bar, allowing you to skip to specific parts of a track.
